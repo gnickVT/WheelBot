@@ -2,7 +2,7 @@
   "name": "wheelbot",
   "version": "1.0.0",
   "description": "Discord bot",
-  "main": "index.js",
+  "main": "src/bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +14,16 @@
     "eris": "^0.13.1",
     "express": "^4.17.1",
     "utf-8-validate": "^5.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnickVT/WheelBot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "bugs": {
+    "url": "https://github.com/gnickVT/WheelBot/issues"
+  },
+  "homepage": "https://github.com/gnickVT/WheelBot#readme"
 }
