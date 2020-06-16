@@ -5,7 +5,3 @@ WheelBot is a bot that various features but its main function is to "spin a whee
 To install WheelBot into your Discord server, follow the link here: [https://discord.com/oauth2/authorize?scope=bot&client_id=722256287433490443]
 
 ## Documentation
-Discord Bot for decision making with a roulette wheel
-
-Go to this URL to add WheelBot to your servers:
-https://discord.com/oauth2/authorize?scope=bot&client_id=722256287433490443
